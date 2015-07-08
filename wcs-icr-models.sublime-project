@@ -1,0 +1,13 @@
+{
+    "folders":
+    [
+        {
+            "path": "/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-models"
+        }
+    ],
+    "settings":
+    {
+        "build_on_save": 1,
+        "tab_size": 2
+    }
+}

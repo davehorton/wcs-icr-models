@@ -7,7 +7,7 @@ var models = {} ;
 
 require('fs').readdirSync(__dirname + '/lib/').forEach(function(file) {
   if (file.match(/\.js$/) !== null) {
-    var modelname = _.capitalize( file.split('.')[0] );
+    var modelname = _.capitalize( _.camelCase( file.split('.')[0] ) );
     models[modelname] = require('./lib/' + file);
   }
 });

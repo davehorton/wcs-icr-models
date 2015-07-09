@@ -12,6 +12,4 @@ require('fs').readdirSync(__dirname + '/lib/').forEach(function(file) {
   }
 });
 
-debug('loaded models: ', models) ;
-
 module.exports = models ;

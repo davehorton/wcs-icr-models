@@ -1,0 +1,1714 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"defa",
+				"defaultTrunks"
+			],
+			[
+				"signa",
+				"signalingPort"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"cs",
+				"customer"
+			],
+			[
+				"getIN",
+				"getFinalByeFromApp"
+			],
+			[
+				"call",
+				"callplan"
+			],
+			[
+				"stop",
+				"stopRecord"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"mem",
+				"members"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"end",
+				"endTime"
+			],
+			[
+				"parse",
+				"parseUri"
+			],
+			[
+				"par",
+				"parseUri"
+			],
+			[
+				"fina",
+				"finalResponse"
+			],
+			[
+				"final",
+				"finalStatus"
+			],
+			[
+				"ra",
+				"rawMsg"
+			],
+			[
+				"raw",
+				"rawInvite"
+			],
+			[
+				"get",
+				"getInboundAttemptCdr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ca",
+				"cacheCdr"
+			],
+			[
+				"cdr",
+				"cdrType"
+			],
+			[
+				"from",
+				"fromTag"
+			],
+			[
+				"mong",
+				"mongoose"
+			],
+			[
+				"redis",
+				"redisClient"
+			],
+			[
+				"calld",
+				"calledNumber"
+			],
+			[
+				"called",
+				"calledNumber"
+			],
+			[
+				"p",
+				"p-preferred-identity"
+			],
+			[
+				"serve",
+				"serverTime"
+			],
+			[
+				"mi",
+				"minutes"
+			],
+			[
+				"term",
+				"termSchema"
+			],
+			[
+				"def",
+				"defaultTrunks"
+			],
+			[
+				"sign",
+				"signalingPort"
+			],
+			[
+				"revis",
+				"revisions"
+			],
+			[
+				"range",
+				"rangeCheck"
+			],
+			[
+				"template",
+				"templateProvider"
+			],
+			[
+				"getC",
+				"getCurrentCustomer"
+			],
+			[
+				"user",
+				"userChanged"
+			],
+			[
+				"rot",
+				"rootScope"
+			],
+			[
+				"req",
+				"requiresCustomer"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"nuer",
+				"number"
+			],
+			[
+				"model",
+				"modelValue"
+			],
+			[
+				"coll",
+				"collapseItem"
+			],
+			[
+				"ex",
+				"expandItem"
+			],
+			[
+				"save",
+				"savedNames"
+			],
+			[
+				"edit",
+				"editName"
+			],
+			[
+				"Trunk",
+				"TrunkSchema"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"host",
+				"hostport"
+			],
+			[
+				"drac",
+				"drachtioServer"
+			],
+			[
+				"dra",
+				"drachtioServer"
+			],
+			[
+				"provin",
+				"provisionalTimeout"
+			],
+			[
+				"provi",
+				"provisional"
+			],
+			[
+				"follow",
+				"followRedirects"
+			],
+			[
+				"getPr",
+				"getProvisionalTimeout"
+			],
+			[
+				"m_timer",
+				"m_timerProvisional"
+			],
+			[
+				"m_n",
+				"m_nProvisionalTimeout"
+			],
+			[
+				"client",
+				"clientMsgId"
+			],
+			[
+				"getCl",
+				"getClientMsgId"
+			],
+			[
+				"vec",
+				"vecDestination"
+			],
+			[
+				"vecDe",
+				"vecDestination"
+			],
+			[
+				"prov",
+				"provisionalTimeout"
+			],
+			[
+				"ful",
+				"fullResponse"
+			],
+			[
+				"m_sz",
+				"m_szDestination"
+			],
+			[
+				"foll",
+				"followRedirects"
+			],
+			[
+				"m_bF",
+				"m_bFullResponse"
+			],
+			[
+				"m_b",
+				"m_bRecordRoute"
+			],
+			[
+				"U",
+				"URI_LEN"
+			],
+			[
+				"M",
+				"MAX_DESTINATIONS"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"c",
+				"cancel"
+			],
+			[
+				"sta",
+				"stackDialogId"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"route",
+				"routedMethods"
+			],
+			[
+				"tran",
+				"transactionId"
+			],
+			[
+				"log_",
+				"log_debug"
+			],
+			[
+				"getS",
+				"getSipStatus"
+			],
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"add",
+				"additionalResponseData"
+			],
+			[
+				"inc",
+				"incomingMsgLength"
+			],
+			[
+				"incom",
+				"incomingMsgLength"
+			],
+			[
+				"in",
+				"incomingMsg"
+			],
+			[
+				"drachtio",
+				"drachtio-client"
+			],
+			[
+				"sip",
+				"sipServers"
+			],
+			[
+				"config",
+				"configureUac"
+			],
+			[
+				"exec",
+				"execParams"
+			],
+			[
+				"re",
+				"reject_ceiling"
+			],
+			[
+				"uas",
+				"uas1Config"
+			],
+			[
+				"getT",
+				"getTimerQueueManager"
+			],
+			[
+				"the",
+				"theProxyController"
+			],
+			[
+				"shared",
+				"shared_ptr"
+			],
+			[
+				"m_",
+				"m_queueD"
+			],
+			[
+				"Timer",
+				"TimerQueueManager"
+			],
+			[
+				"cance",
+				"cancelRequest"
+			],
+			[
+				"forwar",
+				"forwardResponse"
+			],
+			[
+				"m_st",
+				"m_state"
+			],
+			[
+				"uas2",
+				"uas2Config"
+			],
+			[
+				"uac",
+				"uacConfig"
+			],
+			[
+				"uas1",
+				"uas1Config"
+			],
+			[
+				"proxy",
+				"proxyConfig"
+			],
+			[
+				"conn",
+				"connect_opts"
+			],
+			[
+				"admin",
+				"adminPort"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"m_sip",
+				"m_sipContact"
+			],
+			[
+				"make",
+				"make_shared"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"conf",
+				"configureUac"
+			],
+			[
+				"getR",
+				"getReplacedRSeq"
+			],
+			[
+				"forward",
+				"forwardPrack"
+			],
+			[
+				"ori",
+				"original"
+			],
+			[
+				"TAG",
+				"TAG_IF"
+			],
+			[
+				"m_br",
+				"m_branchPrack"
+			],
+			[
+				"sip_me",
+				"sip_method_prack"
+			],
+			[
+				"rq",
+				"rq_method"
+			],
+			[
+				"rse",
+				"rseq_random"
+			],
+			[
+				"m_pC",
+				"m_pController"
+			],
+			[
+				"m_f",
+				"m_fullResponse"
+			],
+			[
+				"c2",
+				"c2Status"
+			],
+			[
+				"c1",
+				"c1Status"
+			],
+			[
+				"m_msg",
+				"m_msgFinal"
+			],
+			[
+				"sha",
+				"shared_from_this"
+			],
+			[
+				"MY",
+				"MY_CALL_ID"
+			],
+			[
+				"cancel",
+				"cancelOutstandingRequests"
+			],
+			[
+				"best",
+				"bestStatus"
+			],
+			[
+				"getTra",
+				"getTransactionState"
+			],
+			[
+				"exh",
+				"exhaustedAllTargets"
+			],
+			[
+				"m_time",
+				"m_timerA"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 362,
+				"line_ending": "Unix",
+				"name": "'use strict' ;"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/tn.js",
+			"settings":
+			{
+				"buffer_size": 1573,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/cdr.js",
+			"settings":
+			{
+				"buffer_size": 1476,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/mapping.js",
+			"settings":
+			{
+				"buffer_size": 228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/sip-peer.js",
+			"settings":
+			{
+				"buffer_size": 277,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/tag.js",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/link.js",
+			"settings":
+			{
+				"buffer_size": 1538,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 328,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/trunk.js",
+			"settings":
+			{
+				"buffer_size": 1112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/callplan.js",
+			"settings":
+			{
+				"buffer_size": 2887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/route.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/user.js",
+			"settings":
+			{
+				"buffer_size": 3188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/calendar.js",
+			"settings":
+			{
+				"buffer_size": 445,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/region.js",
+			"settings":
+			{
+				"buffer_size": 332,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/customer.js",
+			"settings":
+			{
+				"buffer_size": 960,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"da",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"Mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Mari",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"marke",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Build: Build"
+			],
+			[
+				"Test ru",
+				"Test Runner: Run tests with coverage"
+			],
+			[
+				"test",
+				"Test Runner: Run tests"
+			],
+			[
+				"test ru",
+				"Test Runner: Show output panel"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"P",
+				"Package Control: Discover Packages"
+			],
+			[
+				"mardo",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"marod",
+				"Markdown Preview: Github Flavored Markdown: Copy to Clipboard"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"mard",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"marodk",
+				"Markdown Preview: Github Flavored Markdown: Copy to Clipboard"
+			],
+			[
+				"makr",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 340.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/app.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/config/environment/development.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/routes.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/invite.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/cdr.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/routes/invite.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/models/user.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/utils/called-number.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/utils/calling-number.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/models/callplan.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/models/cdr.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/utils/source-address.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/utils/server-time.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/models/trunk.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/models/customer.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/models/tn.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/models/index.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/routes/index.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/config/environment/test.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/config/environment/production.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/config/drachtio.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/node_modules/drachtio/lib/proto.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/routes/cdr.js.deprecated",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/node_modules/drachtio/node_modules/drachtio-client/node_modules/drachtio-sip/lib/message.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/node_modules/drachtio/node_modules/drachtio-client/lib/agent.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/utils/parse-uri.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/.gitignore",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/routes/test.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/routes/test2.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib/index.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/password-check/password-check.directive.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.users/user.detail/user.detail.html",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.users/user.detail/user.detail.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/server/api/user/user.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/app.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/numbers/numbers.detail/numbers.detail.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.users/admin.users.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.numbers/admin.numbers.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.numbers/admin.numbers.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.numbers/admin.numbers.controller.spec.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.numbers/admin.numbers.html",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.numbers/admin.numbers.less",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.numbers/number.detail/number.detail.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.numbers/number.detail/number.detail.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.numbers/number.detail/number.detail.controller.spec.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.customers/customer.detail/customer.detail.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/server/config/seed.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.numbers/number.detail/number.detail.html",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/unique-customer-name/unique-customer-name.directive.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/unique-tn/unique-tn.directive.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/server/api/tn/tn.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/object-compressor/object-compressor.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.trunks/admin.trunks.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.trunks/admin.trunks.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.trunks/admin.trunks.controller.spec.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.trunks/admin.trunks.html",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/server/api/trunk/trunk.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.trunks/admin.trunks.less",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.trunks/trunk.detail/trunk.detail.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.trunks/trunk.detail/trunk.detail.controller.spec.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.trunks/trunk.detail/trunk.detail.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.trunks/trunk.detail/trunk.detail.html",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/server/api/tn/tn.model.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/server/api/trunk/trunk.model.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.customers/customer.detail/customer.detail.html",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/sidebar-menu/sidebar-menu.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/auth/auth.service.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/resources/user.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/index.html",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/server/api/user/user.model.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.customers/admin.customers.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.users/admin.users.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.users/admin.users.less",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.users/user.detail/user.detail.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.users/user.detail/user.detail.controller.spec.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.customers/customer.detail/customer.detail.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/server/api/user/index.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/unique-email/unique-email.directive.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/unique-user-email/unique-user-email.directive.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/app.less",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/sidebar-menu/sidebar-menu.less",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/sidebar-menu/sidebar-menu.html",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.customers/admin.customers.controller.spec.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.customers/admin.customers.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.customers/admin.customers.less",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/resources/customer.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.customers/admin.customers.html",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/server/api/customer/customer.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/uppercased/uppercased.directive.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/unique-customer-abbrev/unique-customer-abbrev.directive.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.users/admin.users.html",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/admin/admin.users/admin.users.controller.spec.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/username/username.directive.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/trunks/trunks.controller.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/trunks/trunks.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/trunks/trunks.html",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/resources/trunk.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/trunks/trunks.less",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/resources/callplan.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/bower.json",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/components/wrappers/tweenmax/tweenmax.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app/trunks/trunks.controller.spec.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/dracht.io/en/guide/index.jade",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/dracht.io/en/guide/intro.jade",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/dracht.io/en/guide/receiving.jade",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/dracht.io/style.css",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/dracht.io/en/guide/sending.jade",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/dracht.io/en/guide/proxy.jade",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/dracht.io/en/guide/menu.jade",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src/pending-request-controller.hpp",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src/sip-proxy-controller.hpp",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src/drachtio.cpp",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src/pending-request-controller.cpp",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src/controller.cpp",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src/sip-proxy-controller.cpp",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-client/lib/agent.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-client/test/acceptance/cdr.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-client/test/scripts/cdr/app.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-client/node_modules/drachtio-test-fixtures/index.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-client/node_modules/drachtio-test-fixtures/package.json",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-client/test/acceptance/proxy.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-client/test/scripts/invite-redirect-uas/app.js",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-client/package.json",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/README.md",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/configure.ac",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/drachtio.conf.xml",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src/controller.hpp",
+		"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src/drachtio-config.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy/lib",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-icr-proxy",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/wcs-routes/client/app",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-uaty",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/msg",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/msg",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/sip",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/tport",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/msg",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/nta",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-client",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/nta",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/tport",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/msg",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/tport",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/msg",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/su",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/msg",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/su",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/msg",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua/msg",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/deps/sofia-sip/libsofia-sip-ua",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-server/src",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/primacea_web/public/javascripts/views/hcp",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/primacea_web/public/javascripts",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/primacea_web/lib/",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/primacea_web/lib/routes",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/primacea_web",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/primacea_web/lib",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/primacea_web/public",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/primacea_web/lib",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/primacea_web/node_modules",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/Primacea/webapps/sunshine/lib",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/Primacea/webapps/sunshine/",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/Primacea/webapps/sunshine/public",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/Primacea/webapps/sunshine/lib/routes",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/Primacea/webapps/sunshine/",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/Primacea/webapps/sunshine/public",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/Primacea/",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/Primacea/webapps/sunshine/public/javascripts",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/Primacea/webapps/sunshine/public",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/Primacea/webapps/sunshine",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio/lib",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtion",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-client/",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-client/setRemote",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/drachtio-client/lib",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine/lib/routes",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine/",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine/public",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine/",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine/public/javascripts/views/hcp",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine/",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine/public/javascripts/views",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine/public/views",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine/lib",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine/public/javascripts/views",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine/public/template",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine/public",
+			"/Users/dhorton/beachdog-enterprises/beachdog-networks/git/SunshineEA/webapps/sunshine",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"forward",
+			"trunk",
+			"set",
+			"get",
+			".get",
+			"mongoose.model",
+			"parseUri",
+			"drachtio",
+			"queryCurrentCustomer",
+			"$broadcast",
+			"$scope.$watch",
+			"Tn",
+			"tn",
+			"tnDetailForm",
+			"listNumbers",
+			"tagsToArray",
+			"ng-model-options",
+			"user",
+			"User",
+			"user",
+			"filter",
+			"listUsers",
+			"password",
+			"validate",
+			"newUserForm",
+			"Customer",
+			"customer",
+			"customerDetailForm",
+			"listCusts",
+			"actionsHtml",
+			"orig",
+			"padding-left",
+			"160",
+			";\n",
+			"#wrapper",
+			"fitToViewpport",
+			"items_with_subs",
+			"onKeyDown",
+			"key",
+			"foc",
+			"onConnect",
+			"params",
+			"express",
+			"morgan",
+			"dae",
+			"parseCmdArgs",
+			"m_bDaemonize",
+			"not ena",
+			"SIG",
+			"m_bDaemonize",
+			"m_bD",
+			"m_bDae",
+			"m_bDaemonize",
+			"daem",
+			"token",
+			"tok",
+			"has_rseq",
+			"::timerP",
+			"cancel",
+			"startR",
+			"::timer",
+			"::process",
+			"sim",
+			"removeTimer",
+			"setProvisionalTimeout",
+			"regex",
+			"provisionalTimeout",
+			"reg",
+			"getProvisionalTimeout",
+			"exhaustedAllTargets",
+			"removeTerminated",
+			"late",
+			"clearTimerC",
+			"curry",
+			"removeP",
+			"removeProxyByTransactionId",
+			"getProxyByTransactionId",
+			"doP",
+			"BOOST_FOR",
+			"doP",
+			"MSG_ID_LEN",
+			"doP",
+			"Discarding",
+			"processMessageStatelessly",
+			"onConn",
+			"emit",
+			"this",
+			"m_mapCallId2Proxy",
+			"drachtio",
+			"agent",
+			"timer C",
+			"forwardRequest",
+			"timerB",
+			"getState",
+			"timerB",
+			"removeNetTransaction",
+			"addNetTransaction",
+			"m_mapNet",
+			"::timer",
+			"forwardBestResponse",
+			"removeTer",
+			"::timer",
+			"addApiRequest",
+			"m_mapApiRequests",
+			"incomingMsgLength",
+			"thro",
+			"debug",
+			"arriving",
+			"exhaustedAllTargets",
+			"processResponse",
+			"removeTer",
+			"invite-100-rel",
+			"onConnect",
+			"connectAll",
+			"483",
+			"debug",
+			"aut",
+			"debug",
+			"routeV",
+			"merge",
+			"uacServer",
+			"path",
+			"handle",
+			" invalid message from server, did not start with lengt",
+			"addApi",
+			"route",
+			"forwardResponse",
+			"has d"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Trunk",
+			"trunk",
+			"trunkDetailForm",
+			"listTrunks",
+			"tn",
+			"Tn",
+			"tn",
+			"listNumbers",
+			"userDetailForm",
+			"User",
+			"user",
+			"userDetailForm",
+			"listUsers",
+			"itemsWithSubs",
+			"",
+			"c_proxyServer",
+			"c_uacServer",
+			"m_pTQM->removeTimer",
+			"m_pTQM->addTimer",
+			"ProxyCore",
+			"RedisService",
+			"DrRedisClient",
+			"RedisClient",
+			"PendingRequestController",
+			"PendingRequest_t",
+			"PendingRequestController",
+			"'] =",
+			"obj['",
+			"localAgent",
+			"remoteAgent",
+			"",
+			"m_sinkSysLog",
+			"260px",
+			"uuid.v1()",
+			"MultiKeySession",
+			"jquery-migrate-1.2.1.min",
+			"#{jsTemplatePath}",
+			"invoice",
+			"expenseCollection",
+			"timeCollection",
+			"$",
+			"template",
+			"modelName",
+			"../../images",
+			"\":",
+			",\"",
+			"\"",
+			"window.console",
+			"//console",
+			"filter-enabled",
+			"filter-disabled"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"auto_name": "'use strict' ;",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/tn.js",
+					"settings":
+					{
+						"buffer_size": 1573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								668,
+								668
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/cdr.js",
+					"settings":
+					{
+						"buffer_size": 1476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1173,
+								1173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 83.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/mapping.js",
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/sip-peer.js",
+					"settings":
+					{
+						"buffer_size": 277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/tag.js",
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "lib/link.js",
+					"settings":
+					{
+						"buffer_size": 1538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1157,
+								1210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "lib/trunk.js",
+					"settings":
+					{
+						"buffer_size": 1112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								483,
+								560
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "lib/callplan.js",
+					"settings":
+					{
+						"buffer_size": 2887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1375,
+								1375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "lib/route.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "lib/user.js",
+					"settings":
+					{
+						"buffer_size": 3188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "lib/calendar.js",
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "lib/region.js",
+					"settings":
+					{
+						"buffer_size": 332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "lib/customer.js",
+					"settings":
+					{
+						"buffer_size": 960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 147.0
+	},
+	"output.run_mocha":
+	{
+		"height": 0.0
+	},
+	"output.test_runner":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true
+}
